@@ -1,4 +1,6 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.qr-scanner">
+    <user-persmission android:name="android.permission.CAMERA"/>
     <application
         android:label="pkd_smart"
         android:name="${applicationName}"
