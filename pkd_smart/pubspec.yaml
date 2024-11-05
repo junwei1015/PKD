@@ -37,6 +37,7 @@ dependencies:
   mobile_scanner: ^6.0.2
   pretty_qr_code: ^3.3.0
   image_picker: ^0.8.5+3
+  firebase_core: ^2.0.0
 
 dev_dependencies:
   flutter_test:
