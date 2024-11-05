@@ -36,6 +36,7 @@ dependencies:
   cupertino_icons: ^1.0.8
   mobile_scanner: ^6.0.2
   pretty_qr_code: ^3.3.0
+  image_picker: ^0.8.5+3
 
 dev_dependencies:
   flutter_test:
